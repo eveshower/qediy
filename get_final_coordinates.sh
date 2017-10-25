@@ -1,4 +1,6 @@
 #!/bin/bash
+# usage: $./get_final_coordinates.sh scf.out
+# modify NR>=1 or NR>=4 for your own purpose
 
 awk  '/Begin final coordinates/,/End final coordinates/{
         print $0
