@@ -8,7 +8,8 @@ def Ry():
     return 13.6056925250
 
 def read_finalcoord(fnam='finalcoord.dat',nat=1000, vc_relax=True,cell=[(),(),()]):
-    ''' read in final coordinate of Quantum-ESPRRESO pw.x vc-relax output
+    ''' read in final coordinate of Quantum-ESPRRESO pw.x vc-relax output, 
+        you can get it from get_final_coordinates.sh
     
         example:
 CELL_PARAMETERS (alat= 12.21140000)
