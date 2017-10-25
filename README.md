@@ -1,3 +1,3 @@
 # qediy
 
-An API for prepare Quantum espresso pw.x input file.
+An API for preparing Quantum Espresso pw.x input file.
