@@ -1,3 +1,8 @@
 # qediy
 
-An API for preparing Quantum Espresso pw.x input file.
+An python script for preparing Quantum Espresso pw.x input file. 
+
+Requirements:
+Numpy
+ASE (http://wiki.fysik.dtu.dk/ase)
+
